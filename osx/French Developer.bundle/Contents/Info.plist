@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>org.sil.ukelele.keyboardlayout.french-developer</string>
+	<key>CFBundleName</key>
+	<string>French Developer all-in-one</string>
+	<key>CFBundleVersion</key>
+	<string>1.0</string>
+	<key>KLInfo_French Developer</key>
+	<dict>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.french-developer.frenchdeveloper</string>
+		<key>TISIntendedLanguage</key>
+		<string>fr</string>
+	</dict>
+	<key>KLInfo_French Developer - Numerical</key>
+	<dict>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.french-developer.frenchdeveloper-numerical</string>
+		<key>TISIntendedLanguage</key>
+		<string>fr</string>
+	</dict>
+	<key>KLInfo_French Developer - PC</key>
+	<dict>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.french-developer.frenchdeveloper-pc</string>
+		<key>TISIntendedLanguage</key>
+		<string>fr</string>
+	</dict>
+	<key>KLInfo_French Developer - PC Numerical</key>
+	<dict>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.french-developer.frenchdeveloper-pcnumerical</string>
+		<key>TISIntendedLanguage</key>
+		<string>fr</string>
+	</dict>
+</dict>
+</plist>
