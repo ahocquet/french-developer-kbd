@@ -20,7 +20,8 @@ French Developer - PC Numerical | For PC Azerty ISO keyboards but with numbers w
 
 #### Layout Preview
 
-// TODO
+* [French Developer - PC Numerical](osx/screenshots/french-developer-pc-numerical.md)
+* Work in progress ...
 
 ## Windows
 #### Installation
