@@ -19,7 +19,7 @@ My french custom keyboard layouts for OS X & Windows.
 
 ## Mac OS X
 #### Installation
-Download <a href="https://github.com/ahocquet/keyboard-layouts/releases/download/1.0.0/fr-dev-layout-osx.zip">fr-dev-layout-osx.zip</a>, unzip the file and copy the `French Developer.bundle` file into `~/Library/Keyboard Layout` for the current user or `/Library/Keyboard Layout` for system wide settings. A reboot might be needed if the keyboard layouts don't appear in the input source settings.
+Download <a href="https://github.com/ahocquet/french-developer-kbd/releases/download/1.0.0/fr-dev-layout-osx.zip">fr-dev-layout-osx.zip</a>, unzip the file and copy the `French Developer.bundle` file into `~/Library/Keyboard Layout` for the current user or `/Library/Keyboard Layout` for system wide settings. A reboot might be needed if the keyboard layouts don't appear in the input source settings.
 
 #### Description
 
@@ -44,7 +44,7 @@ French Developer - PC Numerical | For PC Azerty ISO keyboards but with numbers w
 ## Windows
 #### Installation
 
-Download <a href="https://github.com/ahocquet/keyboard-layouts/releases/download/1.0.0/fr-dev-layout-win.zip">fr-dev-layout-win.zip</a>, unzip the file and launch `setup.exe` to install the keyboard layout.
+Download <a href="https://github.com/ahocquet/french-developer-kbd/releases/download/1.0.0/fr-dev-layout-win.zip">fr-dev-layout-win.zip</a>, unzip the file and launch `setup.exe` to install the keyboard layout.
 
 #### Description
 
