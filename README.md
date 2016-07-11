@@ -1,4 +1,4 @@
-# french-developer-keyboard-layouts
+# French Developer Keyboard Layouts
 My french custom keyboard layouts for OS X & Windows.
 
 ## Mac OS X
@@ -20,8 +20,10 @@ French Developer - PC Numerical | For PC Azerty ISO keyboards but with numbers w
 
 #### Layout Preview
 
+* [French Developer](osx/screenshots/french-developer.md)
+* [French Developer - Numerical](osx/screenshots/french-developer-numerical.md)
+* [French Developer - PC](osx/screenshots/french-developer-pc.md)
 * [French Developer - PC Numerical](osx/screenshots/french-developer-pc-numerical.md)
-* Work in progress ...
 
 ## Windows
 #### Installation
@@ -36,4 +38,4 @@ This will create a new input method named `French - Developer` :
 
 #### Layout Preview
 
-You preview the layout <a href="">here</a>.
+You preview the layout [here](windows/screenshots/README.md)
