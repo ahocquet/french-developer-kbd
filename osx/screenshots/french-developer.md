@@ -1,3 +1,17 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
+- [French Developer](#french-developer)
+    - [Normal state :](#normal-state-)
+    - [Shift state:](#shift-state)
+    - [CapsLock state:](#capslock-state)
+    - [CapsLock+Shift state:](#capslockshift-state)
+    - [Option state:](#option-state)
+    - [Option+Shift state:](#optionshift-state)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # French Developer
 
 ### Normal state :

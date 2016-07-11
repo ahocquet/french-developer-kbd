@@ -1,3 +1,19 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
+- [French Developer Keyboard Layouts](#french-developer-keyboard-layouts)
+  - [Mac OS X](#mac-os-x)
+      - [Installation](#installation)
+      - [Description](#description)
+      - [Layout Preview](#layout-preview)
+  - [Windows](#windows)
+      - [Installation](#installation-1)
+      - [Description](#description-1)
+      - [Layout Preview](#layout-preview-1)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # French Developer Keyboard Layouts
 My french custom keyboard layouts for OS X & Windows.
 
