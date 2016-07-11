@@ -1,20 +1,6 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-
-
-- [French Developer - PC](#french-developer---pc)
-    - [Normal state :](#normal-state-)
-    - [Shift state:](#shift-state)
-    - [CapsLock state:](#capslock-state)
-    - [CapsLock+Shift state:](#capslockshift-state)
-    - [Option state:](#option-state)
-    - [Option+Shift state:](#optionshift-state)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
 # French Developer - PC
 
-### Normal state :
+### Normal state:
 <img src="http://i.imgur.com/UpJM9Bu.jpg">
 
 ### Shift state:
