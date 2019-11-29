@@ -1,20 +1,20 @@
 # French Developer
 
 ### Normal state:
-<img src="https://i.imgur.com/0ahtbQd.png">
+<img src="https://d3dehtdmp2rwcw.cloudfront.net/ms_256413/xJLLaf3QrNP1U2SRTt35xdZmci7Y9L/French%2BDeveloper%2B2019-11-29%2B14-56-57.png?Expires=1575036000&Signature=xpDFLH2vIib3ZKMMy~ndRotOTipll0HbHlsLudFOus~aVTuKYW49DVfgpd2tsajartVfveRimDTYClKpSN~nor7aClN-LEHkBoPKPfajoAnzX3YWtgiWqhhhfArWt9IN73LEVgBBTvmPhoJ~SxfBH~czUHWxBNV-ChbBiyDEYlyEA23PEbravLZvabEWMqxUnmPYd6--Ts6KgfnW1a4BVJexYKFQl5i9CqwdzQVvQObvRfjx0ieuHqONTMhkJiL3E4G1zwuMQuEGe~a40udLt-54uVkvmHOeuGH3zZIv~1bCtCuuI7Aumi0z7lrYzUE7PbNjqjtEX5UNMiZ1LGervQ__&Key-Pair-Id=APKAJBCGYQYURKHBGCOA">
 
 ### Shift state:
-<img src="https://i.imgur.com/7SHll6l.png">
+<img src="https://d3dehtdmp2rwcw.cloudfront.net/ms_256413/ZcESdmdmmHXBGusmA889SCBTC7J9TE/French%2BDeveloper%2B2019-11-29%2B14-59-45.png?Expires=1575037800&Signature=IA6RUfAF4fue6zZhKoerTFHVsA4nKSvjbh112uLMO8mYhQrWr7b1wR1FC4bdYURsEtNLcklcvxDiToeWxiwdUctI3Dun8NnEQ7dFqxy1bNofdLjryRDwMBfhw9FJ1~4MNf~Zs6am2jnI~CdW6PaXSI2TqoOx8mbzY6zaI6CRQuXzwCJPELla9VHnObNxD6hTIcTe8vs8fTlnOvpyxPcignUHq5UIIRPO2kT7pvfuvXEOaykGkBFJXmvQMZ-5B1PK9odt8v7bUzbdO7KpJhBt3HQn4Ox4VFqmB30~Sh6QWjuLP12VUjqCNGK~AtratzK6ibh07rOyuRfhUJwjGQD7wg__&Key-Pair-Id=APKAJBCGYQYURKHBGCOA">
 
 ### CapsLock state:
-<img src="https://i.imgur.com/QeNbbFr.png">
+<img src="https://d3dehtdmp2rwcw.cloudfront.net/ms_256413/gfv6qLNDLRt9eDHi37Elt1uks9aRb7/French%2BDeveloper%2B2019-11-29%2B15-00-31.png?Expires=1575037800&Signature=lsX05-T4uAAXuGWPeEXckjbpOz5DsaZ3E1oThz7wxTpXX32YvlX0~C774XpM2T-o29GOC-AfHgoNFRqs0FzNTssn1rtwv2zflkTZVUZsOufTfH3f40qlEgXFlTnNuk7GJG~8tdRq~v9vBnsM1~10BITec0QWwHFiaTd28vsUTL0aZdZyr499riH4mRjhKXHPIvKvwICX7zcYcjGkIQGm4BwBKf1eGj4qzbrORY132sLPhc1pRjJrXrM3j7m3nYQa9cI8rDcLDrTcoW~7PEgz~iIEEmvku7eZwhDvzet6XmINhw3Gk-r-ueBVUfC~i3VI~3jlAotXSZVH2eTYIy3Szw__&Key-Pair-Id=APKAJBCGYQYURKHBGCOA">
 
 ### CapsLock+Shift state:
-<img src="https://i.imgur.com/l6UpW0i.png">
+<img src="https://d3dehtdmp2rwcw.cloudfront.net/ms_256413/4ShpnlygHOffrPvgxfwdXMLEsWARec/French%2BDeveloper%2B2019-11-29%2B15-01-00.png?Expires=1575037800&Signature=ZAOWDJANF9HpVBF~6ARTd9uxnXRCSChrMGwVHArKu-yiEwIJ0UxyI~pqgU5svkGIDWz78WPT~f8UUK6l~uio~MLv9JWQ7D-XNlBkcRHW3D08mP6lx6qbHah8phWlc3JpOBb1A1ov5MQ8kaHirYJ5XmRTSj7XhE79aamxqWlRzYo8lokBw9PzZwbf0B~INVllgpcb9TCsqP-jM-PNrrOi1YKWmYjPd5bOF4j4sbrcV8vL3YDiX0JFRkx6xMUI7LTOosv~kcOwaiUIuULEQf5JxFWAWxVpgtnNiqMo-6GWkxX8a~iZRm7tNoRxiWDRoEKeILVIjm~H4E8ih02tlEFHhA__&Key-Pair-Id=APKAJBCGYQYURKHBGCOA">
 
 ### Option state:
-<img src="https://i.imgur.com/zeovzNt.png">
+<img src="https://d3dehtdmp2rwcw.cloudfront.net/ms_256413/u4kYKR3dsFev6P9JxpXERHKzxiNQES/French%2BDeveloper%2B2019-11-29%2B15-02-08.png?Expires=1575037800&Signature=doAAsvamEo6BY4sbVet9kJ9qQP~tRm2sEiEFcYU4PDZiofcgXHnwAZxfYHY5xZJksy0djEq9JDtihlaU6UzLWFlpZcUYGl72EiOhakPJXVlZSiONyGAMO2LfFCkAUgo7x9fMzrMbXt2-PIMLgp5rzGC6-LApvBaytXpfX0UfCwYEJWpejKJHJqBwt2Psi6LyUo16-F7rlOjAyaEmQV95wPZQaUPK5gwH~qtjBope9wwl~pOBbRWeCnh3AO48JUhVeWCYMATHtC7LdxnpcWvFlbQYZ7bZXcAO2LzVBavvYRXIdE3-jWJ1ZFgyb4QIDqhUkk10NNADeJFGpeG2wqrccw__&Key-Pair-Id=APKAJBCGYQYURKHBGCOA">
 
 ### Option+Shift state:
-<img src="https://i.imgur.com/p3skBrN.png">
+<img src="https://d3dehtdmp2rwcw.cloudfront.net/ms_256413/FzLEfS0dcnvuvQA5T15pz4T8BQi0Lu/French%2BDeveloper%2B2019-11-29%2B15-01-37.png?Expires=1575037800&Signature=tZpcm4OO936dV6TbV8Y56DyXnQfRcuusZ65mPOh7GMC6tIyeWz2~3b0RAqGYwhVCNssBUXN6wPPErmswNK338QiNBaHXob9Q8-E7ZLnyv6XZffmQpR-J9j9VoEvXBChDdgsCCH31-4DCZX~IaPge-9AoWB8bEQwJOWgwQIF3tHb3FWy6WGBgKGCT-91c-uxXmaoWjTc9BETos-~BuYY117HulwLuu~DFB4C7bXJVk-11u-rbcHZe5As0MpBcqfaoASUHYxGa82trkJ70vlz3wDOmH8KD-eIZaZp-ldXd6Oogs4n8kcBiMEJM8K48noAEqqC8XKkq71r~m7KCbmvllA__&Key-Pair-Id=APKAJBCGYQYURKHBGCOA">
 
