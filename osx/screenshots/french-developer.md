@@ -1,20 +1,20 @@
 # French Developer
 
 ### Normal state:
-<img src="http://i.imgur.com/xUTMhpH.jpg">
+<img src="https://i.imgur.com/0ahtbQd.png">
 
 ### Shift state:
-<img src="http://i.imgur.com/a9ZmVVM.jpg">
+<img src="https://i.imgur.com/7SHll6l.png">
 
 ### CapsLock state:
-<img src="http://i.imgur.com/hpF6oxh.jpg">
+<img src="https://i.imgur.com/QeNbbFr.png">
 
 ### CapsLock+Shift state:
-<img src="http://i.imgur.com/ZXeiZd1.jpg">
+<img src="https://i.imgur.com/l6UpW0i.png">
 
 ### Option state:
-<img src="http://i.imgur.com/iqZG7ej.jpg">
+<img src="https://i.imgur.com/zeovzNt.png">
 
 ### Option+Shift state:
-<img src="http://i.imgur.com/iGmpn7I.jpg">
+<img src="https://i.imgur.com/p3skBrN.png">
 
