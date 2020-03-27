@@ -1,7 +1,7 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 3.4.2.314 on 2020-03-26 at 16:04 (CET)-->
-<keyboard group="126" id="-18429" name="French Developer" maxout="1">
+<!--Last edited by Ukelele version 3.4.2.314 on 2020-03-28 at 00:25 (CET)-->
+<keyboard group="126" id="-24110" name="French Developer" maxout="1">
     <layouts>
         <layout first="0" last="0" mapSet="138" modifiers="30"/>
     </layouts>
@@ -97,7 +97,7 @@
             <key code="47" output=":"/>
             <key code="48" output="&#x0009;"/>
             <key code="49" action="5"/>
-            <key code="50" output="&#x003C;"/>
+            <key code="50" output="$"/>
             <key code="51" output="&#x0008;"/>
             <key code="52" output="&#x0003;"/>
             <key code="53" output="&#x001B;"/>
@@ -209,7 +209,7 @@
             <key code="47" output="/"/>
             <key code="48" output="&#x0009;"/>
             <key code="49" action="5"/>
-            <key code="50" output="&#x003E;"/>
+            <key code="50" output="~"/>
             <key code="51" output="&#x0008;"/>
             <key code="52" output="&#x0003;"/>
             <key code="53" output="&#x001B;"/>
@@ -413,7 +413,7 @@
             <key code="27" output="°"/>
             <key code="28" output="¡"/>
             <key code="29" output="ø"/>
-            <key code="30" output="$"/>
+            <key code="30" output="*"/>
             <key code="31" output="œ"/>
             <key code="32" output="º"/>
             <key code="33" action="ô"/>
@@ -433,7 +433,7 @@
             <key code="47" output="÷"/>
             <key code="48" output="&#x0009;"/>
             <key code="49" output=" "/>
-            <key code="50" output="≤"/>
+            <key code="50" output="&#x003C;"/>
             <key code="51" output="&#x0008;"/>
             <key code="52" output="&#x0003;"/>
             <key code="53" output="&#x001B;"/>
@@ -545,7 +545,7 @@
             <key code="47" output="\"/>
             <key code="48" output="&#x0009;"/>
             <key code="49" output=" "/>
-            <key code="50" output="≥"/>
+            <key code="50" output="&#x003E;"/>
             <key code="51" output="&#x0008;"/>
             <key code="52" output="&#x0003;"/>
             <key code="53" output="&#x001B;"/>
