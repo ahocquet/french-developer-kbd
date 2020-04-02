@@ -1,19 +1,19 @@
 # French Developer - Numerical
 
 ### Normal state:
-<img src="https://take.ms/utBve">
+<img src="state-normal">
 
 ### Shift state:
-<img src="https://take.ms/EUUAW">
+<img src="state-shift">
 
 ### CapsLock state:
-<img src="https://take.ms/Ol4eq">
+<img src="state-capslock">
 
 ### CapsLock+Shift state:
-<img src="https://take.ms/MZEEO">
+<img src="state-capslock-shift">
 
 ### Option state:
-<img src="https://take.ms/e23XX">
+<img src="state-option">
 
 ### Option+Shift state:
-<img src="https://take.ms/pC59G">
+<img src="state-option-shift">
