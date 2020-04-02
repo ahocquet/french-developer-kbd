@@ -24,7 +24,7 @@ Download <a href="https://github.com/ahocquet/french-developer-kbd/raw/master/os
 
 This will create a new input source :
 
-<img src=https://take.ms/ncVhy>
+<img src="macos-layout.png">
 
 Layout Name | Description
 ------------ | -------------
