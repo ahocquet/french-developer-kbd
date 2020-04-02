@@ -18,27 +18,20 @@ My french custom keyboard layouts for OS X & Windows.
 
 ## Mac OS X
 #### Installation
-Download <a href="https://github.com/ahocquet/french-developer-kbd/releases/download/1.0.0/fr-dev-layout-osx.zip">fr-dev-layout-osx.zip</a>, unzip the file and copy the `French Developer.bundle` file into `~/Library/Keyboard Layout` for the current user or `/Library/Keyboard Layout` for system wide settings. A reboot might be needed if the keyboard layouts don't appear in the input source settings.
+Download <a href="https://github.com/ahocquet/french-developer-kbd/tree/master/osx/fr-dev-layout-osx.zip">fr-dev-layout-osx.zip</a>, unzip the file and copy the `French Developer.bundle` file into `~/Library/Keyboard Layout` for the current user or `/Library/Keyboard Layout` for system wide settings. A reboot might be needed if the keyboard layouts don't appear in the input source settings.
 
 #### Description
 
-This will create 4 new input sources :
+This will create a new input source :
 
-<img src=http://i.imgur.com/nO2XDTU.jpg>
+<img src=https://monosnap.com/file/GBVAfofToZ2CgVO5RIxPs78jNRHLes>
 
 Layout Name | Description
 ------------ | -------------
-French Developer | For Apple keyboards
-French Developer - Numerical | For Apple keyboards but with numbers when CapsLock is on
-French Developer - PC | For PC Azerty ISO keyboards
-French Developer - PC Numerical | For PC Azerty ISO keyboards but with numbers when CapsLock is on
-
+French - Numerical Developer | For Apple keyboards but with numbers when CapsLock is on
 #### Layout Preview
 
-* [French Developer](osx/screenshots/french-developer.md)
-* [French Developer - Numerical](osx/screenshots/french-developer-numerical.md)
-* [French Developer - PC](osx/screenshots/french-developer-pc.md)
-* [French Developer - PC Numerical](osx/screenshots/french-developer-pc-numerical.md)
+* [French - Numerical Developer](osx/screenshots/french-developer-numerical.md)
 
 ## Windows
 #### Installation
