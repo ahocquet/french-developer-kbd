@@ -18,13 +18,13 @@ My french custom keyboard layouts for OS X & Windows.
 
 ## Mac OS X
 #### Installation
-Download <a href="https://github.com/ahocquet/french-developer-kbd/tree/master/osx/fr-dev-layout-osx.zip">fr-dev-layout-osx.zip</a>, unzip the file and copy the `French Developer.bundle` file into `~/Library/Keyboard Layout` for the current user or `/Library/Keyboard Layout` for system wide settings. A reboot might be needed if the keyboard layouts don't appear in the input source settings.
+Download <a href="https://github.com/ahocquet/french-developer-kbd/raw/master/osx/fr-dev-layout-osx.zip">fr-dev-layout-osx.zip</a>, unzip the file and copy the `French Developer.bundle` file into `~/Library/Keyboard Layout` for the current user or `/Library/Keyboard Layout` for system wide settings. A reboot might be needed if the keyboard layouts don't appear in the input source settings.
 
 #### Description
 
 This will create a new input source :
 
-<img src=https://monosnap.com/file/GBVAfofToZ2CgVO5RIxPs78jNRHLes>
+<img src=https://take.ms/ncVhy>
 
 Layout Name | Description
 ------------ | -------------
